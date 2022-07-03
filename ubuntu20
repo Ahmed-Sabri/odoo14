@@ -17,9 +17,9 @@
 #--------------------------------------------------
 # Step 2 : Upgrade Server
 #--------------------------------------------------
-echo -e "\n---- Upgrade Server ----"
+#echo -e "\n---- Upgrade Server ----"
 # universe package is for Ubuntu 18.x
-sudo apt upgrade -y
+#sudo apt upgrade -y
 
 #--------------------------------------------------
 # Step 3 : Create Odoo user
